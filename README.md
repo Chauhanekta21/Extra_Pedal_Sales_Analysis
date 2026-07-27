@@ -2,4 +2,4 @@
 
 ## Dashboard Demo
 
-![Dashboard Demo](Gif/dashboard_demo.gif)
+![Dashboard Demo](Gif/dashboard_demo1.gif)
