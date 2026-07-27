@@ -15,3 +15,12 @@
 
 ![Dashboard Demo](Gif/dashboard_demo.gif)
 
+
+
+
+
+
+---
+
+
+![Dashboard Demo](Gif/final.gif)
