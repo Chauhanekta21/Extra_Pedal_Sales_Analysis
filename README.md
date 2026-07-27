@@ -7,19 +7,6 @@
 
 
 
----
-
-
-
-![Dashboard Demo](Gif/demo.gif)
-
-
-
-
----
-
-
-![Dashboard Demo](Gif/dashboard_demo1.gif)
 
 
 
