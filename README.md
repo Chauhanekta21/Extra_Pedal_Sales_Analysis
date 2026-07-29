@@ -74,6 +74,7 @@ DAX Measures
 Charts & Visuals
     ↓
 Interactive Dashboard
+```
 
 ---
 
@@ -88,17 +89,25 @@ Interactive Dashboard
 - Promoted the first row to column headers across all tables.
 - Removed unnecessary rows from the raw datasets.
 - Standardized date formats across transaction and return files.
-- Cleaned inconsistent values and formatting issues in the source files.
 - Checked and corrected data types for quantity, cost, and price-related fields.
-- Prepared the files for proper integration into the data model.
 
 ### 3. Data Transformation
 - Appended the yearly sales datasets (2015, 2016, and 2017) into a single **Final Sales** table.
-- Structured the datasets into a business-friendly format for analysis.
 - Organized product information into category and subcategory hierarchies.
-- Prepared the data to support time-based, regional, customer, and product-level analysis.
 
 ### 4. Data Loading
 - Loaded the transformed tables into the Power BI data model.
 - Established relationships between fact and dimension tables to create a star schema.
 - Validated the model before creating DAX measures and dashboard visualizations.
+
+---
+
+## 🔹 Data Model
+
+The project uses a relational data model where sales transactions are linked to product, customer, territory, and time-related data. This makes the dashboard more scalable and allows multiple perspectives of the same business dataset.
+
+![Data Model](Images/data_model.png)
+
+---
+
+
