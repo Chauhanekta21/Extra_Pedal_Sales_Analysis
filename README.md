@@ -118,4 +118,20 @@ The project uses a relational data model where sales transactions are linked to 
 
 ---
 
+## 🔹 Calculated Columns
+
+1.  Customers Table
+-   IncomeStatus: Used to classify customers into Low Income, Medium Income, and High Income for sales analysis by income group.
+-   ParentStatus: Used to identify whether a customer is a parent or not parent, mainly for the product details drill-through report.
+
+2.  Date Table
+-   Month: Extracts the month from the date field for monthly trend analysis.
+-   Year: Extracts the year for year-wise comparison.
+-   MonthYear: Combines Month and Year into a single label, used as the trend axis for Sales KPI and Order KPI.
+
+3.  Final Sales Table
+-   Product Price: Used as part of the sales calculation logic.
+-   Sales: Represents the final sales value used for KPI reporting and dashboard visuals.
+
+![Data Model](Images/calculated_columns.png)
 
