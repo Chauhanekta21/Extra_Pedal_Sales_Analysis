@@ -100,6 +100,14 @@ Interactive Dashboard
 
 ---
 
+## 🔹 Date Table Creation
+
+- Replaced the static **Calendar** table with a dynamic **Date** table created using DAX.
+- Included key date fields: **Date**, **Month**, and **Year**.
+- Marked it as the official **Date Table** and related it to the **Final Sales** table for time-based analysis.
+
+---
+
 ## 🔹 Data Model
 
 The project uses a relational data model where sales transactions are linked to product, customer, territory, and time-related data. This makes the dashboard more scalable and allows multiple perspectives of the same business dataset.
