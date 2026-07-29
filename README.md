@@ -106,6 +106,8 @@ Interactive Dashboard
 - Included key date fields: **Date**, **Month**, and **Year**.
 - Marked it as the official **Date Table** and related it to the **Final Sales** table for time-based analysis.
 
+![Data Model](Images/date_table.png)
+
 ---
 
 ## 🔹 Data Model
