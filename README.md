@@ -1,120 +1,10 @@
-# Extra Pedal Sales Analysis
-
-<<<<<<< HEAD
-## Project Overview
-
-This project focuses on building a professional sales analytics dashboard using Power BI. The workflow covers data preparation, transformation, modeling, visualization, and dashboard storytelling based on raw sales-related datasets.
-
-## Source Files and Columns
-
-The project uses the following raw files from the Data/Raw folder:
-
-### 1. Sales 2015.csv
-- Columns:
-  - OrderDate
-  - StockDate
-  - OrderNumber
-  - ProductKey
-  - CustomerKey
-  - TerritoryKey
-  - OrderLineItem
-  - OrderQuantity
-
-### 2. Sales 2016.csv
-- Columns:
-  - OrderDate
-  - StockDate
-  - OrderNumber
-  - ProductKey
-  - CustomerKey
-  - TerritoryKey
-  - OrderLineItem
-  - OrderQuantity
-
-### 3. Sales 2017.csv
-- Columns:
-  - OrderDate
-  - StockDate
-  - OrderNumber
-  - ProductKey
-  - CustomerKey
-  - TerritoryKey
-  - OrderLineItem
-  - OrderQuantity
-
-### 4. Customers Table.csv
-- Columns:
-  - CustomerKey
-  - Prefix
-  - FirstName
-  - LastName
-  - BirthDate
-  - MaritalStatus
-  - Gender
-  - EmailAddress
-  - AnnualIncome
-  - TotalChildren
-  - EducationLevel
-  - Occupation
-  - HomeOwner
-
-### 5. Products.csv
-- Columns:
-  - ProductKey
-  - ProductSubcategoryKey
-  - ProductSKU
-  - ProductName
-  - ModelName
-  - ProductDescription
-  - ProductColor
-  - ProductSize
-  - ProductStyle
-  - ProductCost
-  - ProductPrice
-
-### 6. Product Categories.csv
-- Columns:
-  - ProductCategoryKey
-  - CategoryName
-
-### 7. Product Subcategories.csv
-- Columns:
-  - ProductSubcategoryKey
-  - SubcategoryName
-  - ProductCategoryKey
-
-### 8. Territories.csv
-- Columns:
-  - SalesTerritoryKey
-  - Region
-  - Country
-  - Continent
-
-### 9. Returns.csv
-- Columns:
-  - ReturnDate
-  - TerritoryKey
-  - ProductKey
-  - ReturnQuantity
-
-### 10. Calendar.csv
-- Columns:
-  - Date
-
-## Dashboard Demo
-
-![Dashboard Demo](Gif/dashboard_demo2.gif)
-
-
-=======
+## 📊 Extra Pedal Sales Analysis 
+  
 ## 🔹 Project Overview
->>>>>>> 692cf32e64568b934c36889ab60a35973e1d85b6
 
--  This project is a business intelligence dashboard built in Microsoft Power BI to analyze sales performance, product contribution, regional trends, customer behavior, and return impact. 
+This project is an interactive **Microsoft Power BI** dashboard built using the **Extra Pedal Sales** dataset.
 
--  The objective was to transform raw sales data into a structured, interactive dashboard that can support business decision-making and present insights clearly.
-
--  The project follows a complete analytics workflow starting from raw CSV files and ending with a professional dashboard presentation.
+The dashboard provides a comprehensive analysis of **sales performance** and the key factors influencing it, including **products, customers, regions, and returns**, through interactive visualizations and KPIs.
 
 ---
 
@@ -207,6 +97,14 @@ Interactive Dashboard
 - Loaded the transformed tables into the Power BI data model.
 - Established relationships between fact and dimension tables to create a star schema.
 - Validated the model before creating DAX measures and dashboard visualizations.
+
+---
+
+## 🔹 Date Table Creation
+
+- Replaced the static **Calendar** table with a dynamic **Date** table created using DAX.
+- Included key date fields: **Date**, **Month**, and **Year**.
+- Marked it as the official **Date Table** and related it to the **Final Sales** table for time-based analysis.
 
 ---
 
