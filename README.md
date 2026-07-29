@@ -1,12 +1,10 @@
-### Extra Pedal Sales Analysis 
+## 📊 Extra Pedal Sales Analysis 
   
 ## 🔹 Project Overview
 
--  This project is a business intelligence dashboard built in Microsoft Power BI to analyze sales performance, product contribution, regional trends, customer behavior, and return impact. 
+This project is an interactive **Microsoft Power BI** dashboard built using the **Extra Pedal Sales** dataset.
 
--  The objective was to transform raw sales data into a structured, interactive dashboard that can support business decision-making and present insights clearly.
-
--  The project follows a complete analytics workflow starting from raw CSV files and ending with a professional dashboard presentation.
+The dashboard provides a comprehensive analysis of **sales performance** and the key factors influencing it, including **products, customers, regions, and returns**, through interactive visualizations and KPIs.
 
 ---
 
