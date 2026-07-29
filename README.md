@@ -153,3 +153,13 @@ The project uses a relational data model where sales transactions are linked to 
 
 ---
 
+🔹 KPI Summary
+
+The dashboard includes key performance indicators that help track overall business health and sales performance.
+
+-  Sales: Tracks total revenue generated.
+-  Orders: Shows the total number of orders placed.
+-  Returns: Displays the total number of returned items.
+-  Return %: Measures the return rate to evaluate order quality and customer experience.
+
+![Data Model](Images/kpis.png)
