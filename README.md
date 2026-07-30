@@ -159,8 +159,8 @@ The dashboard includes key performance indicators that help track overall busine
 
 -  Sales: Tracks total revenue generated.
 -  Orders: Shows the total number of orders placed.
--  Returns: Displays the total number of returned items.
--  Return %: Measures the return rate to evaluate order quality and customer experience.
+-  Returns: Displays the total quantity of returned items.
+-  Return %: Helps understand the level of return quantity compared to the number of orders.
 
 ![Data Model](Images/kpis.png)
 
@@ -177,6 +177,8 @@ The dashboard includes interactive controls to refine the analysis.
   - Year
   - Gender
   - Region
+
+  - Note: The Gender filter affects all visuals and KPIs except the Returns and Returns % cards. This is because the Returns table does             not contain customer/gender information or a relationship that allows Gender to filter return data.
 
 ### Parameters
 - Metrics Parameter: Switches between Sales, Orders, and Returns for the Product Table chart.
@@ -215,6 +217,97 @@ The final dashboard presents a clean and interactive view of KPIs, trend analysi
 ## 🔹 Dashboard Demo (GIF)
 A short walkthrough of the dashboard is included below to demonstrate the visual interaction and KPI behavior.
 
-![Data Model](Images/dashboard_demo.gif)
+![Dashboard Demo](Gif/dashboard_demo.gif)
 
 ---
+
+## 🔷 Interactive Dashboard:
+
+Download and explore the dashboard locally:
+Dashboard Workbook: https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix
+
+---
+
+## 🔹 Key Insights
+
+- **Bikes** is the strongest-performing category and the primary driver of overall sales, while **Components** recorded zero sales despite having available products.
+- **Top 5 sales regions** are **Australia, Southwest (US), Northwest (US), United Kingdom, and Germany**.
+- **Sales increased across 2015–2017**, with 2017 showing a slight decline compared with the previous year due to the partial-year data.
+- **June 2017 sales reached £1.83M**, exceeding the **£1.77M target by £60K (3.4%)**.
+- **June 2017 orders reached 2,146**, falling just **19 orders (0.9%)** short of the **2,165 target**.
+- **Female customers generated slightly higher sales (£12.5M)** than Male customers (£12.2M), despite Male customers placing more orders (12.6K vs 12.4K).
+- Unexpectedly, lower-income customers emerge as major revenue contributors across multiple subcategories, outperforming higher-income segments in sales contribution
+- Parent customers dominate sales, contributing ₹17.55M (70.4%) of total sales. Among parents, Married customers lead with ₹10.14M (57.8%), while Single customers contribute ₹7.41M (42.2%). Among non-parents, Single customers lead with ₹4.61M (62.6%) versus Married customers at ₹2.76M (37.4%).
+
+---
+
+## 🔹 Repository Structure
+
+```text
+Extra_Pedal_Sales_Analysis/
+│
+├── Dashboard/
+│   └── Extra_Pedal_Sales_Dashboard.pbix
+│
+├── Data/
+│   └── Raw/
+│       ├── Calendar.csv
+│       ├── Customers Table.csv
+│       ├── Product Categories.csv
+│       ├── Product Subcategories.csv
+│       ├── Products.csv
+│       ├── Returns.csv
+│       ├── Sales 2015.csv
+│       ├── Sales 2016.csv
+│       └── Territories.csv
+│
+├── Gif/
+│   └── dashboard_demo.gif
+│
+├── Images/
+│   ├── calculated_columns.png
+│   ├── calendar_date_table.png
+│   ├── dashboard.png
+│   ├── data_model.png
+│   ├── drillthrough.png
+│   ├── filters.png
+│   ├── kpis.png
+│   ├── measures.png
+│   └── tooltip.png
+│
+└── README.md
+```
+
+---
+
+## 🔷 Skills Demonstrated:
+
+-  ETL and Data Preparation
+-  Power BI Dashboard Development
+-  Data Cleaning and Transformation
+-  Data Modeling and Relationship Building
+-  Calculated Column Creation
+-  DAX Measure Creation
+-  KPI and Metric Design
+-  Interactive Filters and Parameters
+-  Drillthrough Report Design
+-  Business Intelligence and Sales Analytics
+
+---
+
+## 🔷 Author:
+Ekta Singh Chauhan
+
+Aspiring Data Analyst
+
+Focused on building projects in:
+
+Excel
+SQL
+Python
+Power BI
+Data Analytics
+
+---
+
+
