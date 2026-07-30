@@ -4,7 +4,7 @@
 
 This project is an interactive **Microsoft Power BI** dashboard built using the **Extra Pedal Sales** dataset.
 
-The dashboard provides a comprehensive analysis of **sales performance** and the key factors influencing it, including **products, customers, regions, and returns**, through interactive visualizations and KPIs.
+The dashboard provides a comprehensive analysis of sales performance from 2015 to June 2017 and the key factors influencing it, including products, customers, regions, and returns, through interactive visualizations and KPIs.
 
 ---
 
@@ -12,11 +12,13 @@ The dashboard provides a comprehensive analysis of **sales performance** and the
 
 Raw sales data alone does not provide immediate business value unless it is cleaned, modeled, and visualized properly. This project addresses that gap by helping answer key questions such as:
 
-- Which products are driving the highest sales?
-- Which regions and territories are performing best?
-- How do returns affect overall sales performance?
-- Which product categories are contributing most to revenue?
-- How can sales trends be interpreted across multiple years?
+- Which product categories are driving the highest sales?
+- Which regions are contributing the most to overall sales?
+- How has sales performance changed from 2015 to June 2017?
+- How did June 2017 sales and orders perform against their targets?
+- How does sales performance differ between male and female customers?
+- Which income groups contribute the most to sales across product subcategories?
+- How do parent status and marital status influence sales contribution?
 
 ---
 
@@ -49,7 +51,8 @@ The project uses multiple raw CSV files stored in the data folder. The data cove
 - Calendar.csv
 
 
-### Dataset Link :- https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw
+### Dataset Link:
+- https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw
 
 
 ---
@@ -172,13 +175,13 @@ The dashboard includes interactive controls to refine the analysis.
 
 ### Filters
 
-- These filters apply to the KPIs and most visuals, except the Monthly Sales Trend chart.
-  - Category
-  - Year
-  - Gender
-  - Region
+These filters apply to the KPIs and most visuals, except the Monthly Sales Trend chart.
+- Category
+- Year
+- Gender
+- Region
 
-  - Note: The Gender filter affects all visuals and KPIs except the Returns and Returns % cards. This is because the Returns table does             not contain customer/gender information or a relationship that allows Gender to filter return data.
+- Note: The Gender filter affects all visuals and KPIs except the Returns and Returns % cards. This is because the Returns table does             not contain customer/gender information or a relationship that allows Gender to filter return data.
 
 ### Parameters
 - Metrics Parameter: Switches between Sales, Orders, and Returns for the Product Table chart.
@@ -224,7 +227,7 @@ A short walkthrough of the dashboard is included below to demonstrate the visual
 ## 🔷 Interactive Dashboard:
 
 Download and explore the dashboard locally:
-Dashboard Workbook: https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix
+- https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix
 
 ---
 
@@ -233,11 +236,11 @@ Dashboard Workbook: https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/
 - **Bikes** is the strongest-performing category and the primary driver of overall sales, while **Components** recorded zero sales despite having available products.
 - **Top 5 sales regions** are **Australia, Southwest (US), Northwest (US), United Kingdom, and Germany**.
 - **Sales increased across 2015–2017**, with 2017 showing a slight decline compared with the previous year due to the partial-year data.
-- **June 2017 sales reached £1.83M**, exceeding the **£1.77M target by £60K (3.4%)**.
+- **June 2017 sales reached $1.83M**, exceeding the **$1.77M target by $60K (3.4%)**.
 - **June 2017 orders reached 2,146**, falling just **19 orders (0.9%)** short of the **2,165 target**.
-- **Female customers generated slightly higher sales (£12.5M)** than Male customers (£12.2M), despite Male customers placing more orders (12.6K vs 12.4K).
+- **Female customers generated slightly higher sales ($12.5M)** than Male customers ($12.2M), despite Male customers placing more orders (12.6K vs 12.4K).
 - Unexpectedly, lower-income customers emerge as major revenue contributors across multiple subcategories, outperforming higher-income segments in sales contribution
-- Parent customers dominate sales, contributing ₹17.55M (70.4%) of total sales. Among parents, Married customers lead with ₹10.14M (57.8%), while Single customers contribute ₹7.41M (42.2%). Among non-parents, Single customers lead with ₹4.61M (62.6%) versus Married customers at ₹2.76M (37.4%).
+- Parent customers dominate sales, contributing $17.55M (70.4%) of total sales. Among parents, Married customers lead with $10.14M (57.8%), while Single customers contribute $7.41M (42.2%). Among non-parents, Single customers lead with $4.61M (62.6%) versus Married customers at $2.76M (37.4%).
 
 ---
 
@@ -302,11 +305,11 @@ Aspiring Data Analyst
 
 Focused on building projects in:
 
-Excel
-SQL
-Python
-Power BI
-Data Analytics
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Analytics
 
 ---
 
