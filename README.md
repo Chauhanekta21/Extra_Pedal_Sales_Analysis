@@ -217,13 +217,16 @@ The final dashboard presents a clean and interactive view of KPIs, trend analysi
 
 ---
 
-## 🔹 Dashboard Demo (GIF)
+## 🔹 Dashboard Demo
 A short walkthrough of the dashboard is included below to demonstrate the visual interaction and KPI behavior.
 
 ![Dashboard Demo](Gif/dashboard_demo.gif)
 
 
 ![Dashboard Demo](Gif/dashboard1.gif)
+
+
+![Dashboard Demo](Gif/dashboard_demo2.gif)
 
 ---
 
