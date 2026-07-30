@@ -163,3 +163,58 @@ The dashboard includes key performance indicators that help track overall busine
 -  Return %: Measures the return rate to evaluate order quality and customer experience.
 
 ![Data Model](Images/kpis.png)
+
+---
+
+## 🔹 Filters and Parameters
+
+The dashboard includes interactive controls to refine the analysis.
+
+### Filters
+
+- These filters apply to the KPIs and most visuals, except the Monthly Sales Trend chart.
+  - Category
+  - Year
+  - Gender
+  - Region
+
+### Parameters
+- Metrics Parameter: Switches between Sales, Orders, and Returns for the Product Table chart.
+- Year Parameter: Switches between 2015, 2016, and 2017 for the Monthly Sales Trend chart.
+
+![Data Model](Images/filters.png)
+
+---
+
+## 🔹 Custom Tooltip
+Added a custom tooltip to the **Sales by Subcategory and Income Status** chart, showing the **subcategory, total sales, income status KPIs, and sales by gender** for deeper context on hover.
+
+![Data Model](Images/tooltip.png)
+
+---
+
+## 🔹 Drillthrough Report
+
+- Added a drillthrough page for **product-level analysis**.
+- Displays **Product Name, Product Cost, and Product Price** as KPIs.
+- Includes a **customer table** with Customer Name, Email, Gender, Parent Status, and Total Spend.
+- Shows **Sales by Marital Status** and **Sales by Parent Status** using donut charts.
+- Shows **Sales by Year and Country** using a ribbon chart.
+
+![Data Model](Images/drillthrough.png)
+
+---
+
+## 🔹 Dashboard Preview
+The final dashboard presents a clean and interactive view of KPIs, trend analysis, product performance, and regional insights in a single layout.
+
+![Data Model](Images/dashboard.png)
+
+---
+
+## 🔹 Dashboard Demo (GIF)
+A short walkthrough of the dashboard is included below to demonstrate the visual interaction and KPI behavior.
+
+![Data Model](Images/dashboard_demo.gif)
+
+---
