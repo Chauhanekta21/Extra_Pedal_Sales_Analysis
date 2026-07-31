@@ -1,10 +1,5 @@
-## 📊 Extra Pedal Sales Analysis 
+## 📊 Extra Pedal Sales Analysis
 
-
-![Data Model](Images/thumbnail.png)
-
-
----
   
 ## 🔹 Project Overview
 
@@ -162,7 +157,7 @@ The project uses a relational data model where sales transactions are linked to 
 
 ---
 
-🔹 KPI Summary
+## 🔹 KPI Summary
 
 The dashboard includes key performance indicators that help track overall business health and sales performance.
 
