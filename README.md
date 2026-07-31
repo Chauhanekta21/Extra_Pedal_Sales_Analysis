@@ -228,6 +228,12 @@ A short walkthrough of the dashboard is included below to demonstrate the visual
 
 ![Dashboard Demo](Gif/dashboard_demo2.gif)
 
+
+![Dashboard Demo](Gif/dashboard_demo3.gif)
+
+
+![Dashboard Demo](Gif/dashboard_demo4.gif)
+
 ---
 
 ## 🔷 Interactive Dashboard:
