@@ -1,4 +1,10 @@
 ## 📊 Extra Pedal Sales Analysis 
+
+
+![Data Model](Images/thumbnail.png)
+
+
+---
   
 ## 🔹 Project Overview
 
