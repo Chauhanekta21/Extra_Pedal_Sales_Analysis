@@ -106,7 +106,7 @@ Interactive Dashboard
 ## 🔹 Date Table Creation
 
 - Replaced the static **Calendar** table with a dynamic **Date** table created using DAX.
-- Included key date fields: **Date**, **Month**, and **Year**.
+- Included key date field: **Date**
 - Marked it as the official **Date Table** and related it to the **Final Sales** table for time-based analysis.
 
 ![Data Model](Images/calendar_date_table.png)
