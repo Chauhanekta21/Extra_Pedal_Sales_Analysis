@@ -52,8 +52,7 @@ The project uses multiple raw CSV files stored in the data folder. The data cove
 - Calendar.csv
 
 
-### Dataset Link:
-- https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw
+### Dataset Link: [Extra_Pedal_Sales_Dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
 
 
 ---
@@ -228,7 +227,7 @@ A short walkthrough of the dashboard is included below to demonstrate the visual
 ## 🔷 Interactive Dashboard:
 
 Download and explore the dashboard locally:
-- https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix
+[Extra Pedal Sales Dashboard](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix)
 
 ---
 
