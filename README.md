@@ -313,4 +313,8 @@ Focused on building projects in:
 
 ---
 
+## 🔷 Disclaimer:
 
+- The dataset used in this project is for learning and portfolio development only. It is not based on real business data.
+
+---
