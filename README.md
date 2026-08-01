@@ -9,7 +9,7 @@ The dashboard provides a comprehensive analysis of sales performance from 2015 t
 
 ---
 
-## 🔹 Business Problem
+## 🔹 Business Objectives
 
 Raw sales data alone does not provide immediate business value unless it is cleaned, modeled, and visualized properly. This project addresses that gap by helping answer key questions such as:
 
