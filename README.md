@@ -52,7 +52,7 @@ The project uses multiple raw CSV files stored in the data folder. The data cove
 - Calendar.csv
 
 
-### Dataset Link: [Extra_Pedal_Sales_Dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
+### Dataset Link: [Extra Pedal Sales Dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
 
 
 ---
