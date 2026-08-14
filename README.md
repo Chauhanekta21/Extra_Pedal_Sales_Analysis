@@ -1,4 +1,4 @@
-## 📊 Extra Pedal Sales Analysis
+# 📊 Extra Pedal Sales Analysis
 
   
 ## 🔹 Project Overview
