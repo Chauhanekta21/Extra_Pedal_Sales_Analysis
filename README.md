@@ -1,5 +1,7 @@
 # 📊 Extra Pedal Sales Analysis
 
+> **Project Status: Completed**
+
   
 ## 🔹 Project Overview
 
