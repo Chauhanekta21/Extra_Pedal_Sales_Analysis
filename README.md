@@ -2,7 +2,8 @@
 
 > **Project Status: Completed**
 
-  
+![Thumbnail](Images/extra_pedal_thumbnail.png)
+
 ## 🔹 Project Overview
 
 This project is an interactive Microsoft Power BI dashboard built using sales data from Extra Pedal, a bicycle and cycling products company.
@@ -220,7 +221,7 @@ Added a custom tooltip to the **Sales by Subcategory and Income Status** chart, 
 - Shows **Sales by Marital Status** and **Sales by Parent Status** using donut charts.
 - Shows **Sales by Year and Country** using a ribbon chart.
 
-![Data Model](Images/drillthrough.png)
+![Data Model](Images/drillthrough_report.png)
 
 ---
 
