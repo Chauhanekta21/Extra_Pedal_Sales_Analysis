@@ -1,4 +1,4 @@
-# 📊 Extra Pedal Sales Analysis
+# 📊 Extra Pedal Sales Analytics
 
 > **Project Status: Completed**
 
@@ -261,7 +261,7 @@ Download and explore the dashboard locally:
 ## 🔹 Repository Structure
 
 ```text
-Extra_Pedal_Sales_Analysis/
+Extra_Pedal_Sales_Analytics/
 │
 ├── Dashboard/
 │   └── Extra_Pedal_Sales_Dashboard.pbix
