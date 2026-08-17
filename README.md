@@ -2,6 +2,10 @@
 
 > **Project Status: Completed**
 
+![Thumbnail](Images/extra_pedal_thumbnail.png)
+
+---
+
 ## 🔹 Project Overview
 
 This project is an interactive Microsoft Power BI dashboard built using sales data from Extra Pedal, a bicycle and cycling products company.
