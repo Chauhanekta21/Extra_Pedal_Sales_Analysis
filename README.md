@@ -1,4 +1,4 @@
-# 📊 Extra Pedal Bicycle Sales Analysis
+# 📊 Extra Pedal Sales Analysis
 
 > **Project Status: Completed**
 
@@ -58,7 +58,7 @@ The project uses multiple raw CSV files stored in the data folder. The data cove
 - Calendar.csv
 
 
-### Dataset Link: [extra-pedal-bicycle-sales-dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
+### Dataset Link: [extra-pedal-sales-dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
 
 
 ---
@@ -241,7 +241,7 @@ A short walkthrough of the dashboard is included below to demonstrate the visual
 ## 🔷 Interactive Dashboard:
 
 Download and explore the dashboard locally:
-[extra-pedal-bicycle-sales-dashboard](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix)
+[extra-pedal-sales-dashboard](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix)
 
 ---
 
@@ -261,10 +261,10 @@ Download and explore the dashboard locally:
 ## 🔹 Repository Structure
 
 ```text
-Extra_Pedal_Bicycle_Sales_Analysis/
+Extra_Pedal_Sales_Analysis/
 │
 ├── Dashboard/
-│   └── Extra_Pedal_Bicycle_Sales_Dashboard.pbix
+│   └── Extra_Pedal_Sales_Dashboard.pbix
 │
 ├── Data/
 │   └── Raw/
