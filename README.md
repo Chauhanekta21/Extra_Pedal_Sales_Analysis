@@ -5,9 +5,9 @@
   
 ## 🔹 Project Overview
 
-This project is an interactive **Microsoft Power BI** dashboard built using the **Extra Pedal Sales** dataset.
+This project is an interactive Microsoft Power BI dashboard built using sales data from Extra Pedal, a bicycle and cycling products company.
 
-The dashboard provides a comprehensive analysis of sales performance from 2015 to June 2017 and the key factors influencing it, including products, customers, regions, and returns, through interactive visualizations and KPIs.
+The dashboard provides a comprehensive analysis of sales performance from 2015 to June 2017, covering key business areas including bicycles, components, cycling clothing, accessories, customers, regions, and returns. Interactive visualizations and KPIs help identify sales trends, top-performing products and customers, regional performance, and return patterns.
 
 ---
 
