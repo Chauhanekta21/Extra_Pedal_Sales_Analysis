@@ -1,4 +1,4 @@
-# 📊 Extra Pedal Sales Analysis
+# 📊 Extra Pedal Bicycle Sales Analysis
 
 > **Project Status: Completed**
 
@@ -32,6 +32,10 @@ Raw sales data alone does not provide immediate business value unless it is clea
 - DAX
 - Data Modeling
 - Data Cleaning and Transformation
+- Calculated Columns & Measures
+- Slicers & Field Parameters
+- Drill-through Report
+- Custom Tooltip
 - Dashboard Design
 
 ---
@@ -54,7 +58,7 @@ The project uses multiple raw CSV files stored in the data folder. The data cove
 - Calendar.csv
 
 
-### Dataset Link: [Extra Pedal Sales Dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
+### Dataset Link: [extra-pedal-bicycle-sales-dataset](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/tree/main/Data/Raw)
 
 
 ---
@@ -72,9 +76,17 @@ Data Transformation
     ↓
 Data Modeling
     ↓
+Calculated Columns
+    ↓
 DAX Measures
     ↓
 Charts & Visuals
+    ↓
+Custom Tooltip
+    ↓
+Filters & Field Parameters
+    ↓
+Drillthrough Report
     ↓
 Interactive Dashboard
 ```
@@ -229,7 +241,7 @@ A short walkthrough of the dashboard is included below to demonstrate the visual
 ## 🔷 Interactive Dashboard:
 
 Download and explore the dashboard locally:
-[Extra Pedal Sales Dashboard](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix)
+[extra-pedal-bicycle-sales-dashboard](https://github.com/Chauhanekta21/Extra_Pedal_Sales_Analysis/blob/main/Dashboard/Extra_Pedal_Sales_Dashboard.pbix)
 
 ---
 
@@ -249,10 +261,10 @@ Download and explore the dashboard locally:
 ## 🔹 Repository Structure
 
 ```text
-Extra_Pedal_Sales_Analysis/
+Extra_Pedal_Bicycle_Sales_Analysis/
 │
 ├── Dashboard/
-│   └── Extra_Pedal_Sales_Dashboard.pbix
+│   └── Extra_Pedal_Bicycle_Sales_Dashboard.pbix
 │
 ├── Data/
 │   └── Raw/
@@ -295,6 +307,7 @@ Extra_Pedal_Sales_Analysis/
 -  DAX Measure Creation
 -  KPI and Metric Design
 -  Interactive Filters and Parameters
+-  Custom Tooltip Design
 -  Drillthrough Report Design
 -  Business Intelligence and Sales Analytics
 
@@ -303,7 +316,7 @@ Extra_Pedal_Sales_Analysis/
 ## 🔷 Author:
 Ekta Singh Chauhan
 
-Aspiring Data Analyst
+Data Analyst
 
 Focused on building projects in:
 
