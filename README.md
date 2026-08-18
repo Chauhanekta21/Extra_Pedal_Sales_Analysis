@@ -250,11 +250,11 @@ Download and explore the dashboard locally:
 
 ## 🔹 Key Insights
 
-- **Bikes** is the strongest-performing category and the primary driver of overall sales, while **Components** recorded zero sales despite having available products.
+- **Bikes** is the strongest-performing category and the primary driver of overall sales, while **Components** category had multiple        products listed but recorded zero sales and orders, suggesting these products may have been inactive, unavailable for sale, or not        commercially offered during the analysis period.
 - **Top 5 sales regions** are **Australia, Southwest (US), Northwest (US), United Kingdom, and Germany**.
 - **Sales increased across 2015–2017**, with 2017 showing a slight decline compared with the previous year due to the partial-year data.
-- **June 2017 sales reached $1.83M**, exceeding the **$1.77M target by $60K (3.4%)**.
-- **June 2017 orders reached 2,146**, falling just **19 orders (0.9%)** short of the **2,165 target**.
+- Sales exceeded the annual target in each year from 2015–2017, with June 2017 sales reaching $1.83M, already surpassing the $1.77M         target by $60K (3.4%) despite only having six months of 2017 data.
+- Orders also exceeded the annual target in 2015 and 2016, while 2017 orders reached 2,146 against a 2,165 target. The slight shortfall     is likely influenced by the dataset containing only January–June 2017 data, rather than a full year.
 - **Female customers generated slightly higher sales ($12.5M)** than Male customers ($12.2M), despite Male customers placing more orders (12.6K vs 12.4K).
 - Unexpectedly, lower-income customers emerge as major revenue contributors across multiple subcategories, outperforming higher-income segments in sales contribution
 - The Components category had multiple products listed but recorded zero sales and orders, suggesting these products may have been          inactive, unavailable for sale, or not commercially offered during the analysis period.
