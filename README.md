@@ -257,7 +257,6 @@ Download and explore the dashboard locally:
 - Orders also exceeded the annual target in 2015 and 2016, while 2017 orders reached 2,146 against a 2,165 target. The slight shortfall     is likely influenced by the dataset containing only January–June 2017 data, rather than a full year.
 - **Female customers generated slightly higher sales ($12.5M)** than Male customers ($12.2M), despite Male customers placing more orders (12.6K vs 12.4K).
 - Unexpectedly, lower-income customers emerge as major revenue contributors across multiple subcategories, outperforming higher-income segments in sales contribution
-- The Components category had multiple products listed but recorded zero sales and orders, suggesting these products may have been          inactive, unavailable for sale, or not commercially offered during the analysis period.
 - Parent customers dominate sales, contributing $17.55M (70.4%) of total sales. Among parents, Married customers lead with $10.14M (57.8%), while Single customers contribute $7.41M (42.2%). Among non-parents, Single customers lead with $4.61M (62.6%) versus Married customers at $2.76M (37.4%).
 
 ---
